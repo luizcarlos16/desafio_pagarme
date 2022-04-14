@@ -109,3 +109,25 @@ O Grafana tem maior segurança sobre os dados do que o Prometheus. Você precisa
     - O terceiro ícone do menu esquerdo é Dashboards
     - Escolha "Browse"
     - Em seguida, clique no dashboard "App Comentarios"
+
+
+# OUTROS DESAFIOS DESENVOLVIDOS
+
+## Desafio em GO
+https://github.com/luizcarlos16/sre_deal
+
+https://github.com/luizcarlos16/sre_deal/blob/main/docs/pt-br/sre_deal.pdf
+
+
+## Desafio_kroton
+https://github.com/luizcarlos16/desafio_kroton_luiz
+
+https://github.com/luizcarlos16/desafio_kroton_luiz/blob/master/doc/GitHub%20Action%20TerraformCI.pdf
+https://github.com/luizcarlos16/desafio_kroton_luiz/blob/master/doc/DESAFIO%20KRONTON.pdf
+
+
+## Desafio Mutant
+https://github.com/luizcarlos16/node_devops
+
+Docker Hub
+docker pull thecalifornia16/node_devops
